@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SOURCE_FILE="main.cpp"
+SOURCE_FILE="clauncher.cpp"
 OUTPUT_EXECUTABLE="clan"
 RAYLIB_PATH="raylib/"
 
